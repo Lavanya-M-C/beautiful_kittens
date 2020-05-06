@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beautiful_kittens/static/css/main.1ab4c729.chunk.css",
+    "main.js": "/beautiful_kittens/static/js/main.45870d58.chunk.js",
+    "main.js.map": "/beautiful_kittens/static/js/main.45870d58.chunk.js.map",
+    "runtime-main.js": "/beautiful_kittens/static/js/runtime-main.13a1589c.js",
+    "runtime-main.js.map": "/beautiful_kittens/static/js/runtime-main.13a1589c.js.map",
+    "static/js/2.04765a99.chunk.js": "/beautiful_kittens/static/js/2.04765a99.chunk.js",
+    "static/js/2.04765a99.chunk.js.map": "/beautiful_kittens/static/js/2.04765a99.chunk.js.map",
+    "index.html": "/beautiful_kittens/index.html",
+    "precache-manifest.1d95659fd081ea52f466305d537318a2.js": "/beautiful_kittens/precache-manifest.1d95659fd081ea52f466305d537318a2.js",
+    "service-worker.js": "/beautiful_kittens/service-worker.js",
+    "static/css/main.1ab4c729.chunk.css.map": "/beautiful_kittens/static/css/main.1ab4c729.chunk.css.map",
+    "static/js/2.04765a99.chunk.js.LICENSE": "/beautiful_kittens/static/js/2.04765a99.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a1589c.js",
+    "static/js/2.04765a99.chunk.js",
+    "static/css/main.1ab4c729.chunk.css",
+    "static/js/main.45870d58.chunk.js"
+  ]
+}
